@@ -1,4 +1,4 @@
-const Library = require('./library');
+const Library = require('../src/library');
 
 describe('Library Management System', () => {
   let library;
